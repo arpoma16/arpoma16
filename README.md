@@ -24,5 +24,6 @@
 <span>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpoma16" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpoma16" height="165">
-</span>
 
+</span>
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpoma16&layout=compact)
