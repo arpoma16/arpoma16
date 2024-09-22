@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center" style=" background-size: cover; background-position: center; padding: 20px;">
+    <h3>Hi 👋, I'm <a > Alvaro Poma </a></h3>
 
-<!--
-**arpoma16/arpoma16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>🌟 Welcome to my coding work space! 🌟</p>
+  <h4 align="left">Open Sources Projects that  I have been working </h4>
+<table align="center">
+        <tr>
+            <td><a href="https://github.com/alvcaballero/multiuav_gui">MultiAUV GUI</a> -  GCS Web Application for multirobot and long range inspections </td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/alvcaballero/multiUAV_system">MultiUAV_system</a> - ROS onboard package for long range multiUAV inspection</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/arpoma16/DEltaAR">DEltaAR</a> - OpenSource Robot Delta with augmented Reality</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/miggilcas/simple_vs">SimpleVs</a> -Simple tools for vision system with ROS</td>
+        </tr>
+    </table>
 
-Here are some ideas to get you started:
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<span>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raultapia" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raultapia" height="165">
+</span>
+
