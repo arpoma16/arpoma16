@@ -1,7 +1,7 @@
 <div align="center" style=" background-size: cover; background-position: center; padding: 20px;">
     <h3>Hi 👋, I'm <a > Alvaro Poma </a></h3>
 
-  <p>🌟 Welcome to my coding work space! 🌟</p>
+  <p>🌟 Welcome to my coding workspace! 🌟</p>
   <h4 align="left">Open Sources Projects that  I have been working </h4>
 <table align="center">
         <tr>
